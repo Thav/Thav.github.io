@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 4.0.3
 2 NAME Gramps
-1 DATE 22 NOV 2015
-2 TIME 20:02:04
+1 DATE 24 NOV 2015
+2 TIME 06:36:06
 1 SUBM @SUBM@
 1 FILE /home/tony-rebecca/Documents/Projects/familyTree/Thav.github.io/Olivo.ged
 1 COPR Copyright (c) 2015 .
@@ -2249,18 +2249,17 @@
 2 DATE 22 NOV 2015
 3 TIME 19:51:30
 0 @I0201@ INDI
-1 NAME Kimberly /Russillo/
-2 GIVN Kimberly
+1 NAME Kim /Russillo/
+2 GIVN Kim
 2 SURN Russillo
-2 NICK Kim
 1 NAME  //
 2 TYPE married
 1 SEX F
 1 FAMC @F0069@
 1 FAMS @F0072@
 1 CHAN
-2 DATE 22 NOV 2015
-3 TIME 20:00:00
+2 DATE 24 NOV 2015
+3 TIME 06:35:14
 0 @I0202@ INDI
 1 NAME Tracy /Russillo/
 2 GIVN Tracy
